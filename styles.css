@@ -6,6 +6,3 @@ body{
     color: var(--cor);
     font-size: var(--fontr-tamanho);
 }
-h2{
-    color: blue;
-}
